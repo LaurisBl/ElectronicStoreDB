@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"lt.viko.eif.lblauzdys.electronicsstore"},{"l":"lt.viko.eif.lblauzdys.electronicsstore.communication"},{"l":"lt.viko.eif.lblauzdys.electronicsstore.db"},{"l":"lt.viko.eif.lblauzdys.electronicsstore.model"}];updateSearchResults();
